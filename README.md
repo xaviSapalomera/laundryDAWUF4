@@ -2,6 +2,8 @@
 
 # Projecte LaundryDAWUF4
 Xavi Gallego Palau
+
+# Xavi Gallego - Col·laborador
 ---
 ## Using Tech:
 
