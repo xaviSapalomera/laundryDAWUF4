@@ -1,5 +1,7 @@
 # laundry management system
 
+# Projecte LaundryDAWUF4
+Xavi Gallego Palau
 ---
 ## Using Tech:
 
