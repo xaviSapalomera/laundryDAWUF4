@@ -11,6 +11,7 @@
   <!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
 <body>
+<!-- Aquests es un comentari -->
   <section class="container">
     <div class="login">
       <h1>Login to Laundry Shop</h1>
